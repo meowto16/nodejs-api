@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "repository": "git@github.com:meowto16/nodejs-api.git",
+  "author": "Maxim Kirshin <mak@crtweb.ru>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "experiment": "func() { node ./experiments/${1}.js; }; func"
+  }
+}
